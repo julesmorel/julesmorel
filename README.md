@@ -8,4 +8,4 @@
 
 - 💬 Ask me about **Point cloud processing**
 
-- 📫 How to reach me **jules.morel@ifpindia.org**
+- 📫 How to reach me **julesmorelinc@gmail.com**
