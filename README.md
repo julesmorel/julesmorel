@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Blender and 3DS Max**
 
-- 📝 Get an insight of my work at [https://julesmorel.com](julesmorel.com)
+- 📝 Get an insight of my work at [julesmorel.com](https://julesmorel.com)
 
 - 💬 Ask me about **Point cloud processing**
 
